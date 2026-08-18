@@ -7,15 +7,15 @@ I'm a Master's student at Carnegie Mellon University interested in machine learn
 ---
 
 ### Education
-- **Carnegie Mellon University** — MS Electrical & Computer Engineering (2026–2027)
-- **IIT Madras** — Exchange Student, Electrical Engineering (2024–2025)
-- **NIT Goa** — B.Tech Electronics & Communication Engineering (2021–2025)
+- **Carnegie Mellon University** - MS Electrical & Computer Engineering (2026–2027)
+- **IIT Madras** - Exchange Student, Electrical Engineering (2024–2025)
+- **NIT Goa** - B.Tech Electronics & Communication Engineering (2021–2025)
 
 ---
 
 ### What I'm working on
-- **Deepfake Detection** — building a deepfake detector using CNNs + frequency-domain features on FaceForensics++
-- **LLM-assisted Wireless Localization** — integrating wireless signals with GIS and mobility data for enhanced localization accuracy
+- **Deepfake Detection** - building a deepfake detector using CNNs + frequency-domain features on FaceForensics++
+- **LLM-assisted Wireless Localization** - integrating wireless signals with GIS and mobility data for enhanced localization accuracy
 
 ---
 
