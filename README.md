@@ -2,7 +2,7 @@
 
 MS ECE @ Carnegie Mellon University | ML • Computer Vision • LLMs • Cloud Infrastructure
 
-I'm a Master's student at Carnegie Mellon University working at the intersection of machine learning research and real-world systems. My work spans generative model attribution, RF signal detection, LLM-assisted localization, and cloud infrastructure. I enjoy going deep on why models work — not just whether they do.
+I'm a Master's student at Carnegie Mellon University working at the intersection of machine learning research and real-world systems. My work spans generative model attribution, RF signal detection, LLM-assisted localization, and cloud infrastructure. I enjoy going deep on why models work, not just whether they do.
 
 ---
 
@@ -37,10 +37,10 @@ I'm a Master's student at Carnegie Mellon University working at the intersection
 | RF Signal Detection & Distance Estimation | CNN-Transformer achieving 95% detection accuracy and 94% on 5-class distance classification from raw IQ recordings; characterizing jamming vulnerabilities in satellite communication protocols using FSPL and STFT analysis |
 | LLM-Assisted Mobility Prediction | Agentic pipeline on Dartmouth StudentLife GPS data; 43% improvement over frequency baseline using Groq-hosted LLM |
 | SocialCloud | Private cloud on GCP with OpenStack, MAAS, Juju, Terraform; hosted Databag social platform |
-| Federated Learning with LMO-Based Bias Correction | FedMuon achieved 89–90% test accuracy vs 65–68% for uncorrected Local Muon under non-IID conditions |
+| Federated Learning with LMO-Based Bias Correction | FedMuon achieved 89–90% test accuracy vs 65-68% for uncorrected Local Muon under non-IID conditions |
 | MIMO Channel Estimation | Score-based diffusion model via annealed Langevin dynamics; NMSE of -30 dB at SNR = 30 dB on CDL-C |
-| Object Detection & Tracking | MOG, ViBe, KNN + Kalman filtering for multi-scale object tracking |
-| Dual-Wavelength Metalens | Designed Silicon Nitride metasurface for two-photon fluorescence imaging at IIT Madras |
+| Object Detection & Tracking | Multi-object tracking with scale variation and partial occlusion; benchmarked MOG, KNN, ViBe with Kalman filtering |
+| Dual-Wavelength Metalens | Designed Silicon Nitride metasurface for two-photon fluorescence imaging at IIT Madras; published in Journal of Optics |
 
 ---
 
@@ -53,4 +53,3 @@ I'm a Master's student at Carnegie Mellon University working at the intersection
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HiraNayak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hiranayak)
 [![Email](https://img.shields.io/badge/Email-hnayak@andrew.cmu.edu-red?style=flat&logo=gmail)](mailto:hnayak@andrew.cmu.edu)
-
