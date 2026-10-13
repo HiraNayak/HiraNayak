@@ -33,11 +33,11 @@ I'm a Master's student at Carnegie Mellon University working at the intersection
 
 | Project | Description |
 |---|---|
-| Internal Activation Analysis for Generative Model Attribution | Trained DCGAN, VAE, DDPM from scratch; classifier achieved 89.2% accuracy on GAN vs VAE attribution; extended to LLM text detection with 90–92% accuracy across three paraphrasers |
+| Internal Activation Analysis for Generative Model Attribution | Trained DCGAN, VAE, DDPM from scratch; classifier achieved 89.2% accuracy on GAN vs VAE attribution; extended to LLM text detection with 90-92% accuracy across three paraphrasers |
 | RF Signal Detection & Distance Estimation | CNN-Transformer achieving 95% detection accuracy and 94% on 5-class distance classification from raw IQ recordings; characterizing jamming vulnerabilities in satellite communication protocols using FSPL and STFT analysis |
 | LLM-Assisted Mobility Prediction | Agentic pipeline on Dartmouth StudentLife GPS data; 43% improvement over frequency baseline using Groq-hosted LLM |
 | SocialCloud | Private cloud on GCP with OpenStack, MAAS, Juju, Terraform; hosted Databag social platform |
-| Federated Learning with LMO-Based Bias Correction | FedMuon achieved 89–90% test accuracy vs 65-68% for uncorrected Local Muon under non-IID conditions |
+| Federated Learning with LMO-Based Bias Correction | FedMuon achieved 89-90% test accuracy vs 65-68% for uncorrected Local Muon under non-IID conditions |
 | MIMO Channel Estimation | Score-based diffusion model via annealed Langevin dynamics; NMSE of -30 dB at SNR = 30 dB on CDL-C |
 | Object Detection & Tracking | Multi-object tracking with scale variation and partial occlusion; benchmarked MOG, KNN, ViBe with Kalman filtering |
 | Dual-Wavelength Metalens | Designed Silicon Nitride metasurface for two-photon fluorescence imaging at IIT Madras; published in Journal of Optics |
